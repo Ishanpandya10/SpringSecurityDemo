@@ -1,3 +1,4 @@
+/*
 package com.practice.springsec.security.auth;
 
 import lombok.Getter;
@@ -50,3 +51,4 @@ public class CustomAuthentication implements Authentication {
         return null;
     }
 }
+*/

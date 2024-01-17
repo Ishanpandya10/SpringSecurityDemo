@@ -1,3 +1,4 @@
+/*
 package com.practice.springsec.security.filters;
 
 import com.practice.springsec.security.auth.CustomAuthManager;
@@ -41,4 +42,4 @@ public class AuthFilter extends OncePerRequestFilter {
         }
 
     }
-}
+}*/

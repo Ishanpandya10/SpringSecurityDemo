@@ -1,3 +1,4 @@
+/*
 package com.practice.springsec.security.auth;
 
 import org.springframework.security.authentication.AuthenticationProvider;
@@ -23,3 +24,4 @@ public class CustomAuthenticationProvider implements AuthenticationProvider {
         return authentication.equals(CustomAuthentication.class);
     }
 }
+*/

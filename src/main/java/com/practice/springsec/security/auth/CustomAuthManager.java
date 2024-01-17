@@ -1,3 +1,4 @@
+/*
 package com.practice.springsec.security.auth;
 
 import lombok.RequiredArgsConstructor;
@@ -20,3 +21,4 @@ public class CustomAuthManager implements AuthenticationManager {
         throw new BadCredentialsException("Invalid Auth Token");
     }
 }
+*/
